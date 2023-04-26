@@ -66,7 +66,7 @@ global.KICK_MSG = ' '
 //Links (URLS)
 global.ytname = "YT: @sl menuwa" //ur yt chanel name
 global.socialm = "GitHub: wabot" //ur github or insta name
-global.linkz = "https://chat.whatsapp.com/LeYkxvyEdoYIEOsfQnfDRS //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com//your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@SlMENUWA //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
